@@ -1,4 +1,7 @@
-
+/*Suppose you want to print out numbers in brackets, formatted as
+follows: [1][2][3], and so on. Write a method that takes two parameters: howMany and lineLength. The method should print out line numbers from 1 to howMany in the previous format, but it should not
+output more than lineLength characters on any one line. It should
+not start a [ unless it can fit the corresponding ] */
 
 import java.util.Scanner;
 
